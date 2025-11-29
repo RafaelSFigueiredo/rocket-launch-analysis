@@ -1,0 +1,19 @@
+[project]
+name = "rocket-launch-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "dash>=3.3.0",
+    "folium>=0.20.0",
+    "ipykernel>=7.1.0",
+    "ipython-sql>=0.5.0",
+    "pandas>=2.3.3",
+    "prettytable>=3.17.0",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.44",
+    "wget>=3.2",
+]
